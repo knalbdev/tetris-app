@@ -1,0 +1,6 @@
+{
+  "name": "Neon Tetris Modern",
+  "description": "A high-performance, modernized Tetris game with SRS wall kicks, ghost pieces, hold/next queues, and satisfying neon visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
